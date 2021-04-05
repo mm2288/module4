@@ -5,4 +5,25 @@
   </PropertyGroup>
 
 
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Contracts\Contracts.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="LoggerService\LoggerService.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache" />
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.assets.cache" />
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache" />
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache" />
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll" />
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb" />
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete" />
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.FileListAbsolute.txt" />
+  </ItemGroup>
 </Project>
