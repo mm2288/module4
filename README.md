@@ -12,3 +12,10 @@ Link for Module 3: https://github.com/mm2288/module3
 <b>Assignment for Homework Module 5- in module5 branch</b>
 <br>
 For this assignment, I used the provided video and added a logger to the assignment.
+
+
+Module 6:
+Migrations folder with migrations for mod 6:
+![3.png](https://github.com/mm2288/module4/blob/master/3.png?raw=true)
+Added data to the organizations:
+![4.png](https://github.com/mm2288/module4/blob/master/4.png?raw=true)
