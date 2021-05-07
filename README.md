@@ -12,3 +12,8 @@ Link for Module 3: https://github.com/mm2288/module3
 <b>Assignment for Homework Module 5- in module5 branch</b>
 <br>
 For this assignment, I used the provided video and added a logger to the assignment.
+This is an example log file:
+![1.png](https://github.com/mm2288/module4/blob/master/1.png?raw=true)
+This is the log folder from running my project in the past few weeks:
+![2.png](https://github.com/mm2288/module4/blob/master/2.png?raw=true)
+
